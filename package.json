@@ -1,0 +1,15 @@
+{
+  "name": "silhouette-2.0",
+  "version": "1.0.0",
+  "description": "Silho-ette Photography",
+  "main": "script.js",
+  "dependencies": {
+    "dragscroll": "^0.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "K. Shook",
+  "license": "ISC"
+}
